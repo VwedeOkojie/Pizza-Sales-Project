@@ -38,7 +38,7 @@ Load the cleaned and transformed data into Power BI for analysis
 ## Project Structure
 * pizza sales dashboad.pbix: Power BI project file containing all visualizations and dashboards
 * data/: Folder containing the raw dataset (pizza_sales_data.csv)
-* 
+* README.md: Project overview and instructions (You are here)
 
 ## Contributing
 Contributions to the project are welcome through pull requests
