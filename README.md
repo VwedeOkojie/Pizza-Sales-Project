@@ -46,3 +46,6 @@ Follow the project's coding and documentation guidelines
 
 ## License
 The project is released under the MIT License
+
+
+You can reach out to vwedeokojie@gmail.com for questions, collaboration, or more information about this project.
