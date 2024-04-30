@@ -4,7 +4,7 @@
 
 ## Project Description
 
-This project aims to analyze pizza sales data to gain insights into popular pizza types, size preferences, pricing strategies, sales trends, and customer segmentation. The analysis will help pizza businesses understand customer preferences and optimize their sales strategies.
+This project aims to analyze pizza sales data to gain insights into popular pizza types, size preferences, pricing strategies, and sales trends. The analysis will help pizza businesses understand customer preferences and optimize their sales strategies.
 
 ## Data Extraction
 * Source: Order details, Orders, Pizza Types and Pizzas Dataset
