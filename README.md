@@ -30,6 +30,9 @@ Load the cleaned and transformed data into Power BI for analysis
 * Explore cross-selling opportunities and customer loyalty
 * Analyze profitability and optimize pricing strategies
 
+![Screenshot pizza sales](https://github.com/VwedeOkojie/Pizza-Sales-Project/assets/161823174/4150e459-792c-42a3-b7aa-32eb8f24d7ca)
+
+
 ## How to Use the Project
 * Open the Power BI file (pizza_sales_analysis.pbix) in Power BI Desktop
 * Explore the different visualizations and dashboards to gain insights
@@ -37,9 +40,13 @@ Load the cleaned and transformed data into Power BI for analysis
 
 
 ## Project Structure
-* pizza sales dashboad.pbix: Power BI project file containing all visualizations and dashboards
-* data/: Folder containing the raw dataset (order_details.csv, orders.csv, pizza_types.csv and pizzas.csv)
-* README.md: Project overview and instructions (You are here)
+* [pizza sales dashboad.pbix](https://github.com/VwedeOkojie/Pizza-Sales-Project/blob/4bca0c71b12a101223ea166f2e09c1911b1641c3/Pizza%20Sales%20Dashboard.pbix) - Power BI project file containing all visualizations and dashboards
+* [README.md](https://github.com/VwedeOkojie/Pizza-Sales-Project/blob/4bca0c71b12a101223ea166f2e09c1911b1641c3/README.md)- Project overview and instructions `You are here`
+* [order_details.csv](https://github.com/VwedeOkojie/Pizza-Sales-Project/blob/4bca0c71b12a101223ea166f2e09c1911b1641c3/order_details.csv)- Folder containing the raw dataset for order_details
+* [order.csv](https://github.com/VwedeOkojie/Pizza-Sales-Project/blob/4bca0c71b12a101223ea166f2e09c1911b1641c3/orders.csv)- Folder containing the raw dataset for orders
+* [pizza_types.csv](https://github.com/VwedeOkojie/Pizza-Sales-Project/blob/4bca0c71b12a101223ea166f2e09c1911b1641c3/pizza_types.csv)- Folder containing the raw dataset for pizza types
+*  [pizza.csv](https://github.com/VwedeOkojie/Pizza-Sales-Project/blob/4bca0c71b12a101223ea166f2e09c1911b1641c3/pizzas.csv)- Folder containing the raw dataset for pizza
+
 
 ## Contributing
 Contributions to the project are welcome through pull requests
